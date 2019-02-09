@@ -94,3 +94,5 @@ As we have changed the names, we need to re-create the genesis and channel files
       - orderer.example.com
       - couchdb0 #usually this does not exists, you need to enter this
     
+##How to use this
+Create your custom folder with any name and then copy all these files.
